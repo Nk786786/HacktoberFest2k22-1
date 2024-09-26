@@ -1,8 +1,8 @@
 # Hack-this-October-2k22-
-This Repo is created for Hacktober Fest 2021. All you have to do is follow the steps in  the Readme of this repo, perform the tasks and create the pull request. Leave the rest upon me. # Hack-the-October2022
+This repository was created in preparation for Hacktober Fest 2021. All you have to do is follow the steps in this repo's Readme, complete the tasks, and submit the pull request. Let me handle the rest. # Hack-the-October2022
 
 # 
-If you are looking for a t-shirt you can send Pull Request to this repository
+You can send a Pull Request to this repository if you're looking for a t-shirt.
 
 ## HelloWorld-Hacktoberfest
 Say Hello to the world in whatever language you like or you can add your open-source project.
